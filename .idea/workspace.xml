@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b5ea0b9-976f-4463-8172-d5bb87efff54" name="Changes" comment="initial commit" />
+    <list default="true" id="1b5ea0b9-976f-4463-8172-d5bb87efff54" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/label_encoder.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/label_encoder.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modello_finale.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/modello_finale.pkl" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
